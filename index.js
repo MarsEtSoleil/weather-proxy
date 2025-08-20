@@ -41,4 +41,9 @@ git add index.js
 git commit -m "Fix index.js format"
 # GitHub に push
 git push origin main
+
+git add index.js
+git commit -m "Fix index.js format"
+git push origin main
+
 */
